@@ -1,0 +1,26 @@
+{
+    "name": "",
+    "id": "",
+    "description": "",
+    "image": ".png",
+    "rating": 4.5,
+    "distance": 1.5,
+    "type": [
+        "restaurant",
+        "grocery",
+        "icecreamshop",
+        "cafe",
+        "pub",
+        "fastfood",
+        "pizzeria",
+        "dessertshop",
+        "burgers",
+        "sandwiches"
+    ],
+    "tags": [
+        "popular",
+        "sponsored",
+        "affordable",
+        "premium"
+    ]
+}

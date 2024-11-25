@@ -1,0 +1,25 @@
+{
+    "name": "",
+    "id": 1,
+    "description": "",
+    "price": 10,
+    "image": ".png",
+    "weight": 3,
+    "type": [
+        "dessert",
+        "food",
+        "drink",
+        "alcoholic",
+        "vegan",
+        "vegetarian"
+    ],
+    "calories": 3,
+    "tags": [
+        "milk",
+        "egg",
+        "peanut",
+        "fish",
+        "wheat",
+        "spicy"
+    ]
+}
