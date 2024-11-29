@@ -1,9 +1,9 @@
 function Navbar() {
-    return <div className="fixed w-64 bg-gray-100 h-full flex flex-col justify-evenly">
-        <button>HomePage</button>
-        <button>Favourites</button>
-        <button>History</button>
-        <button>Profile</button>
+    return <div className="fixed w-32 bg-blue-100 h-80 flex flex-col justify-evenly top-1/4">
+        <button>🏠HomePage</button>
+        <button>❤️Favourites</button>
+        <button>🕒History</button>
+        <button>👤Profile</button>
     </div>
 };
 

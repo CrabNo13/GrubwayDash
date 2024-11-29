@@ -5,7 +5,7 @@ import './styles/App.css';
 function App() {
 
   return (
-    <div className="flex min-h-screen">
+    <div className="flex">
       <Navbar />
       <HomePage />
     </div>
