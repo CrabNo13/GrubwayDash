@@ -1,25 +1,58 @@
 {
-    "name": "",
-    "id": 1,
-    "description": "",
-    "price": 10,
-    "image": ".png",
-    "weight": 3,
-    "type": [
-        "dessert",
-        "food",
-        "drink",
-        "alcoholic",
-        "vegan",
-        "vegetarian"
-    ],
-    "calories": 3,
-    "tags": [
-        "milk",
-        "egg",
-        "peanut",
-        "fish",
-        "wheat",
-        "spicy"
-    ]
+    "0": {
+        "name": "",
+        "description": "",
+        "price": 10,
+        "image": ".png",
+        "weight": 3,
+        "type": [
+            "dessert",
+            "food",
+            "drink",
+            "alcoholic",
+            "vegan",
+            "vegetarian"
+        ],
+        "calories": 3,
+        "tags": [
+            "milk",
+            "egg",
+            "peanut",
+            "fish",
+            "wheat",
+            "spicy"
+        ]
+    },
+    "50": {
+        "name": "Junior Cheese Burger",
+        "description": "Junior Cheese Burger.",
+        "price": 5,
+        "image": "juniorcheeseburger.png",
+        "weight": 3,
+        "type": [
+            "food"
+        ],
+        "calories": 5,
+        "tags": [
+            "milk",
+            "wheat"
+        ],
+        "store": 1
+    },
+    "51": {
+        "name": "Cheese Burger",
+        "description": "Cheese Burger.",
+        "price": 8,
+        "image": "cheeseburger.png",
+        "weight": 5,
+        "type": [
+            "food"
+        ],
+        "calories": 8,
+        "tags": [
+            "milk",
+            "wheat"
+        ],
+        "store": 1
+    }
 }

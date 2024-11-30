@@ -1,5 +1,5 @@
 import SearchBar from "../components/SearchBar";
-import Section from "../components/Section";
+import HomeSection from "../components/HomeSection";
 
 function HomePage() {
     const restaurantItems = [1, 2, 3, 4, 5];
@@ -8,8 +8,8 @@ function HomePage() {
 
     return <div className="flex flex-col w-full">
         <SearchBar />
-        <Section title="Popular" type="restaurant" items={restaurantItems} />
-        <Section title="Discounts" type="food" items={discountItems} />
+        <HomeSection title="Popular" type="restaurant" items={restaurantItems} />
+        <HomeSection title="Discounts" type="food" items={discountItems} />
     </div>
 };
 

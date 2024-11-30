@@ -1,0 +1,85 @@
+{
+    "49": {
+        "name": "",
+        "description": "",
+        "image": ".png",
+        "rating": 4.5,
+        "distance": 1.5,
+        "type": [
+            "restaurant",
+            "grocery",
+            "icecreamshop",
+            "cafe",
+            "pub",
+            "fastfood",
+            "pizzeria",
+            "dessertshop",
+            "burgers",
+            "sandwiches"
+        ],
+        "tags": [
+            "popular",
+            "sponsored",
+            "affordable",
+            "premium"
+        ],
+        "sections": [
+            {
+                "name": "Burgers",
+                "items": [
+                    50
+                ]
+            }
+        ]
+    },
+    "1": {
+        "name": "Mr. Charlie's",
+        "description": "We have been in the market for over 50 years, so please stop accusing us of some sort of plagariasm, and if you insist we will communicate you with our lawyers.",
+        "image": "mrcharlies.png",
+        "rating": 4.0,
+        "distance": 1.2,
+        "type": [
+            "restaurant",
+            "fastfood",
+            "burgers"
+        ],
+        "tags": [
+            "sponsored",
+            "premium"
+        ],
+        "sections": [
+            {
+                "name": "Burgers",
+                "items": [
+                    50,
+                    51
+                ]
+            }
+        ]
+    },
+    "2": {
+        "name": "Homie's",
+        "description": "We have been in the market for over 50 years, so please stop accusing us of some sort of plagariasm, and if you insist we will communicate you with our lawyers.",
+        "image": "homies.png",
+        "rating": 4.2,
+        "distance": 1.0,
+        "type": [
+            "restaurant",
+            "fastfood",
+            "burgers"
+        ],
+        "tags": [
+            "sponsored",
+            "premium"
+        ],
+        "sections": [
+            {
+                "name": "Burgers",
+                "items": [
+                    50,
+                    51
+                ]
+            }
+        ]
+    }
+}
