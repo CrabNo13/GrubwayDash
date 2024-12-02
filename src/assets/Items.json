@@ -21,7 +21,8 @@
             "fish",
             "wheat",
             "spicy"
-        ]
+        ],
+        "store": 0
     },
     "50": {
         "name": "Junior Cheese Burger",
